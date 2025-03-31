@@ -19,7 +19,7 @@ const config: Config = {
   onBrokenMarkdownLinks: 'warn',
 
   i18n: {
-    defaultLocale: 'en',
+    defaultLocale: 'es',
     locales: ['en','es'],
   },
 
